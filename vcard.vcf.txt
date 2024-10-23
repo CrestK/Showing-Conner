@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Johnny Quanny
+N;CHARSET=UTF-8:Quanny;Johnny;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:Quarnny@email.koemel.net
+TITLE;CHARSET=UTF-8:Head of Tikkle Fights
+ROLE;CHARSET=UTF-8:Tickler
+ORG;CHARSET=UTF-8:Quarnstructd
+URL;type=WORK;CHARSET=UTF-8:http://quanstructs.com
+REV:2024-10-23T16:24:36.768Z
+END:VCARD
